@@ -1,7 +1,7 @@
 # week5
 ## Website's goal
-#### goal for myself
-#### goal for my audience
+#### goal for myself: introducing myself
+
 #### First impression
 
 #### Wording is clear and crisp
