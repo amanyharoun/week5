@@ -1,0 +1,10 @@
+custom.css
+/*step 1: Pick a maximum breakpoint*/
+@media (max-width: 600){
+/*step 2: identify non-essential htl compnents and do not display for her 3d image on her resume*/
+img{
+  display: none;
+}
+/*step 3: identify paralel web structure and set display order to vertical*/
+
+}
